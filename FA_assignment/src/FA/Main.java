@@ -2,9 +2,9 @@ package FA;
 import java.util.Scanner;
 /*
     fixed partition memory management program
-    FA assignment 2019 regular intake
+    
     @author: H.H.D Kalhara
-    IT number: IT18139440
+   
  */
 
 public class Main {
